@@ -1,11 +1,7 @@
-# manjaro-programs
-Manjaro auto install programs and nvidia drivers
+### Auto İnstall Script
+Tayentu's Manjaro auto install programs and nvidia drivers
 
-### Auto İnstall Script###
-**02.09.2020**
-
-
-### Uprade | 13.09.2020### 
+### Uprade | 13.09.2020
 **Release Note**
 Added Jetbrains Toolbox
 
