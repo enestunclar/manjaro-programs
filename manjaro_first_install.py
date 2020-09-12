@@ -63,7 +63,7 @@ def nvidia_driver():
         print("Error install, Please read error code")
 
 pacman = ["yay","vim","nmap","arp-scan","virtualbox","vscode","wpscan","telegram-desktop"]
-yay = ["metasploit","exploit-db-git","wireshark","ulauncher","jdownloader2","google-chrome","wps-office"]
+yay = ["metasploit","exploit-db-git","wireshark","ulauncher","jdownloader2","google-chrome","wps-office","jetbrains-toolbox"]
 
 upgrade_repository()
 
